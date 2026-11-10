@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="GemTech favicon">
+  <defs>
+    <linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#0d8f88" />
+      <stop offset="100%" stop-color="#0c6f73" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="#f4fbfa"/>
+  <path d="M20 18h20a8 8 0 0 1 8 8v12a8 8 0 0 1-8 8H20a8 8 0 0 1-8-8V26a8 8 0 0 1 8-8zm0 8h20v12H20V26z" fill="url(#g)"/>
+  <path d="M26 30h12v4H26zm0 6h12v4H26z" fill="#ffffff"/>
+  <circle cx="46" cy="18" r="6" fill="#1a6874" opacity="0.9"/>
+</svg>
